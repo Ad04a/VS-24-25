@@ -2,8 +2,10 @@
 
 int main()
 {
-    
-    printf("COmmit work 2");
+    for(int i=0; i<7; i++)
+    {
+        printf("Commit work 2");
+    }
     return 0;
 
 }
