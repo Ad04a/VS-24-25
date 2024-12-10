@@ -2,8 +2,15 @@
 
 int main()
 {
+
     int n=7;
-    printf("COmmit work %d", n);
+    
+
+    for(int i=0; i<n; i++)
+    {
+        printf("COmmit work %d", i);
+    }
+
     return 0;
 
 }
