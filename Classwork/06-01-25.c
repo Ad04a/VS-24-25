@@ -6,11 +6,10 @@ int main()
 
     scanf("%d", &n);
 
-    if(n == 3)
+    switch(n)
     {
-        printf(" - 3 - ");
-    } else if(n == 4)
-    {
-        printf(" -  4  -");
+        case 3: printf("= 3 =");break;
+        case 4: printf(" = 4 = ");break;
+        default: pritnf(" no case ");
     }
 }
