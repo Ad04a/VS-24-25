@@ -2,5 +2,5 @@
 
 int main()
 {
-    prinf("Hello branched commit");
+    prinf("Hello conflicting branched commit");
 }
