@@ -2,5 +2,5 @@
 
 int main()
 {
-    prinf("Hello showcasing branched commit");
+    prinf("Hello revalation branched commit");
 }
