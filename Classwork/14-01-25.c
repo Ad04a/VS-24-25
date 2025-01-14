@@ -2,5 +2,5 @@
 
 int main()
 {
-    prinf("Hello existing commit");
+    printf("Hello branched commit");
 }
