@@ -91,8 +91,12 @@ float gtTotalPrice(Library lib)
     return sum;
 }
 
-int main()
+void main()
 {
     Library lib;
-    return 0;
+
+
+    printf("Hello world");
+
+    return;
 }

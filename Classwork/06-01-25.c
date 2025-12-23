@@ -9,5 +9,5 @@ int main()
         case 4: printf(" = 4 = ");break;
         default: pritnf(" no case ");
     }
-    else printf("No match");
+    printf("No match");
 }
